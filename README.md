@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 1.  Clone the repo:
     ```sh
-    git clone https://github.com/Saadi-810/Research_&_write_agent.git
+    https://github.com/Saadi-810/Research_-_write_agent.git
     ```
 2.  Navigate to the project directory:
     ```sh
